@@ -209,7 +209,8 @@ body,
 input,
 select,
 textarea {
-  color: rgba(255, 255, 255, 0.55);
+  /* color: rgba(255, 255, 255, 0.55); OLD COLOR FOR TEXT */
+  color: rgba(255, 255, 255, 0.75);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16.5pt;
   font-weight: normal;
@@ -3316,7 +3317,8 @@ table.alt tfoot {
 }
 
 .wrapper.style1 {
-  background-color: #5e42a6;
+  /* background-color: #5e42a6; */ /* OLD COLOR */
+  background-color: #493382;
 }
 
 .wrapper.style1-alt {
