@@ -2692,11 +2692,14 @@ input[type="radio"] + label:before {
 .image.fit {
   display: block;
   margin: 0 0 2em 0;
+  width: 80px;
   width: 100%;
 }
 
 .image.fit img {
+  width: 80px;
   width: 100%;
+  /* margin-right: 10px; */
 }
 
 .image.main {
@@ -2924,7 +2927,7 @@ ul.icons li > span .label {
 }
 
 .icon__tech {
-  width: 80px;
+  width: 100px;
   height: 80px;
 }
 
