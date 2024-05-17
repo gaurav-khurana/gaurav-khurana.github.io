@@ -2923,6 +2923,11 @@ ul.icons li > span .label {
   display: none;
 }
 
+.icon__tech {
+  width: 80px;
+  height: 80px;
+}
+
 /* Menu */
 
 ul.menu {
