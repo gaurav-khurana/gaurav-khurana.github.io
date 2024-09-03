@@ -2928,10 +2928,23 @@ ul.icons li > span .label {
   display: none;
 }
 
+/* tech stack icons */
 .icon__tech {
   width: 100px;
   height: 80px;
   margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* exprience text styles */
+.experience-text {
+  margin-top: 1rem;
+  margin-bottom: 0;
+  margin-left: 1rem;
+  width: 60vw;
+}
+
+.inner :last-child {
   margin-bottom: 1rem;
 }
 
